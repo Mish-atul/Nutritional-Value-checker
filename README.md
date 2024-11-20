@@ -1,4 +1,4 @@
-#Nutritional Value Checker
+# Nutritional Value Checker
 
 This project is a web application designed to analyze the nutritional values of food products from their nutritional labels. It uses Optical Character Recognition (OCR) with **Pytesseract** to extract text from images and evaluates the nutritional quality of the product.
 
